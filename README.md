@@ -31,11 +31,11 @@ This is a Java Spring Boot-based web application that predicts **Glucose**, **Ch
 - **Other Tools:** MySQL Workbench
 
 ## 🛠️Build and Run
--- mvn clean install
--- mvn spring-boot:run
+- mvn clean install
+- mvn spring-boot:run
 
 ## Access the App
--- Go to: http://localhost:8080
+- Go to: http://localhost:8080
 
 
 
